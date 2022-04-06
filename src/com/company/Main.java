@@ -50,7 +50,7 @@ public class Main {
                     sortedList.add(list.get(j));
                 }
             }
-
+//-----------------------------------------------------------
         }
         System.out.println(sortedList);
     }
